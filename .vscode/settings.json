@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "cctype": "cpp",
+        "iostream": "cpp",
+        "stdexcept": "cpp"
+    }
+}
